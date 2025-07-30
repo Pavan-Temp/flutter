@@ -1,0 +1,21 @@
+# Flutter build and dependency files
+.dart_tool/
+build/
+.packages
+.pub-cache/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Unused platforms
+android/
+ios/
+macos/
+windows/
+linux/
+
+# OS stuff
+.DS_Store
+Thumbs.db
